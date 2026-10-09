@@ -26,6 +26,17 @@ Python, TensorFlow/Keras, NumPy, Pandas, Scikit-learn, Matplotlib and Streamlit.
 - RUL prediction in hours
 - Interactive Streamlit dashboard
 
+## 📸 Project Screenshots
+
+### 1. EV-Mind Dashboard
+![EV-Mind Dashboard](UI_screenshots/dashboard_overview.png)
+
+### 2. Remaining Useful Life Prediction
+![RUL Prediction](UI_screenshots/rul_prediction.png)
+
+### 3. Deep Learning Model Comparison
+![Model Comparison](UI_screenshots/model_comparison.png)
+
 ### Running the Project
 Install the dependencies:
 
